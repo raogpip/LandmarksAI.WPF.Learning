@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LandmarksAI.WPF.Learning", "LandmarksAI.WPF.Learning.csproj", "{D07EA276-D48E-461C-B1A4-B6D288FE8441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07EA276-D48E-461C-B1A4-B6D288FE8441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07EA276-D48E-461C-B1A4-B6D288FE8441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07EA276-D48E-461C-B1A4-B6D288FE8441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07EA276-D48E-461C-B1A4-B6D288FE8441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EE7F8B1-1F00-4FEA-BB69-7279C02D10E4}
+	EndGlobalSection
+EndGlobal
